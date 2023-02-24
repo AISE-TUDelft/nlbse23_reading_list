@@ -1,4 +1,6 @@
-# Furhter Reading
+# The (Ab)use of Open Source Code to Train Large Language Models
+This repo is a reading list related to the position paper published at The 2nd International Workshop on NL-based Software Engineering. 
+
 
 ## Articles
 - [Does GPT-2 Know Your Phone Number?](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)
